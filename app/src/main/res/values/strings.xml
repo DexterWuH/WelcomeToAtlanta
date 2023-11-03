@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WelcomeToAtlanta</string>
+    <string name="dimension_40">40sp</string>
 </resources>
